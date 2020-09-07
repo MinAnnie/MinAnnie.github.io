@@ -12,6 +12,10 @@ body {
      align-items: center;
 }
 
+a {
+	color: aliceblue;
+}
+
 .contenedor {
 	background-color: #453f48;
 	width: 90%;
